@@ -1,5 +1,5 @@
 We are asked to study the causes of a possible drop in engagement with the Yammer platform during the first weeks of August. 
-We solve this challenge using a data stored in a PostgreSQL DB and using visualizations based on Visual Explorer.
+I solve this challenge using a data stored in a PostgreSQL DB and using visualizations based on Visual Explorer.
 
 Please, visit the following notebook where the SQL code and all the explanaitons are included:
 
